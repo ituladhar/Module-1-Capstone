@@ -1,0 +1,20 @@
+U-Chews	|	0
+Cola	|	0
+Little League Chew	|	0
+Moonpie	|	0
+Dr. Salt	|	0
+Chiclets	|	0
+Potato Crisps	|	1
+Cowtales	|	0
+Mountain Melter	|	0
+Triplemint	|	0
+Stackers	|	0
+Wonka Bar	|	0
+Heavy	|	0
+Grain Waves	|	0
+Crunchie	|	0
+Diet Cola	|	0
+Cloud Popcorn	|	0
+Skor	|	0
+
+TOTAL SALES: $2.99
